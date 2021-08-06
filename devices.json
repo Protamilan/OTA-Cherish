@@ -269,6 +269,21 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-cherish-os-2-4-jason-official.4268867/"
          }
       ]
-   }
+   },
+   {  
+   
+"brand": "realme",
+      "codename": "RMX1831",
+      "name": "Realme U1",
+      "supported_versions": [
+         {
+            "maintainer_name": "Jegan.SB",
+            "maintainer_url": "https://t.me/Iam_jegan",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": ""
+         }
+      ]
+   },   
 
-]
+
